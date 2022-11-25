@@ -1,2 +1,3 @@
 "Hello World"
 " We will learn PowerShell in this"
+"Pleas work hard"
