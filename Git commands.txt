@@ -1,0 +1,10 @@
+git config --global user.name JooZaffer
+git config --global user.email hussainzaffer1987@gmail.com
+
+git status
+git add "File name"
+git commit -m "Second Change"
+
+#########
+To add all files use the command
+git add -A
